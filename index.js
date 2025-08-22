@@ -1,0 +1,1 @@
+console.log("HI MY NAME IS AMOGH")
